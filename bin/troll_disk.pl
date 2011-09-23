@@ -1,4 +1,4 @@
-#!/bin/perl
+#!/usr/bin/perl
 
 # License: GPL2 (maybe :-P )
 
